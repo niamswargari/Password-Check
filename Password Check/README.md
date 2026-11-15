@@ -15,6 +15,11 @@ Do be aware that all typed passwords are processed locally in memory and are nev
 
 HTML, CSS, JavaScript, React, Vite
 
-## Screenshots
+### Strong Password
+![Strong Password](./Password%20Check/docs/Strong%20Password.png)
 
-![Strong Password Screenshot](./docs/strong-password.png)
+### Weak Password
+![Weak Password](./Password%20Check/docs/Weak%20Password.png)
+
+### Medium Password
+![Medium Password](./Password%20Check/docs/Medium%20Password.png)
