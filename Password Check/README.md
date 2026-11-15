@@ -15,11 +15,11 @@ Do be aware that all typed passwords are processed locally in memory and are nev
 
 HTML, CSS, JavaScript, React, Vite
 
-### Strong Password
-![Strong Password](./docs/Strong%20Password.png)
-
-### Weak Password
-![Weak Password](./docs/Weak%20Password.png)
-
 ### The app
 ![The app](./docs/The-app.png)
+
+### Strong Password
+![Strong Password](./docs/Strong-Password.png)
+
+### Weak Password
+![Weak Password](./docs/Weak-Password.png)
