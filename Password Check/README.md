@@ -21,5 +21,5 @@ HTML, CSS, JavaScript, React, Vite
 ### Weak Password
 ![Weak Password](./Password%20Check/docs/Weak%20Password.png)
 
-### Medium Password
-![Medium Password](./Password%20Check/docs/Medium%20Password.png)
+### The app
+![The app](./Password%20Check/docs/The-app.png)
