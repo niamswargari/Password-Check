@@ -17,4 +17,4 @@ HTML, CSS, JavaScript, React, Vite
 
 ## Screenshots
 
-![App Screenshot](./docs/Theapp.png)
+![Strong Password Screenshot](./docs/strong-password.png)
