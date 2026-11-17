@@ -30,7 +30,7 @@ You need [Node.js](https://nodejs.org/) and npm installed.
 
 ```bash
 git clone https://github.com/niamswargari/Password-Check.git
-cd "Password-Check/Password Check"
+cd "C:\Users\Niam\Desktop\Password Check\Password Check"
 npm install
 npm run dev
 ```
